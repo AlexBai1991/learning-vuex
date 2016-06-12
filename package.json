@@ -1,0 +1,22 @@
+{
+  "name": "vuex-pro",
+  "version": "1.0.0",
+  "description": "vuex learn demo",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "vuex",
+    "vuejs",
+    "es2015",
+    "webpack",
+    "gulp"
+  ],
+  "author": "AlexBai <alexbai1991@gmail.com>",
+  "license": "MIT"
+}
